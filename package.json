@@ -1,17 +1,22 @@
 {
-  "name": "bookish-parakeet",
-  "version": "1.0.0",
+  "name": "@r2d2/workspace",
+  "private": true,
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "r2d2",
+    "workspace"
+  ],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.11.0",
   "devDependencies": {
-    "nx": "20.8.1",
-    "pnpm": "^10.10.0"
+    "@nx/react": "^21.0.3",
+    "nx": "21.0.3",
+    "pnpm": "^10.11.0"
   }
 }

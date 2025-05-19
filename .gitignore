@@ -684,3 +684,8 @@ zsdoc/data
 
 storybook-static
 vite.config.*.timestamp*
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md
+
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md
